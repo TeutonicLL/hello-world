@@ -36,4 +36,6 @@ int Property pPlantedLetter  Auto Conditional
 
 int Property pGaiusDead  Auto Conditional
 
+int Property test Auto Hidden 
+
 
