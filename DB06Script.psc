@@ -39,3 +39,4 @@ int Property pGaiusDead  Auto Conditional
 int Property test Auto Hidden 
 
 
+int property test2 Auto Hidden 
